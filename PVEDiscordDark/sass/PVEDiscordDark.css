@@ -329,11 +329,11 @@
  border-radius:0;
  background-color:#23272a;
  -webkit-box-shadow:none;
- box-shadow:0px 0px 1px #000;
- border-color:#2c2f33;
+ box-shadow:0px 0px 20px #0a0a0a;
+ border-color:#3d3f44;
  border-style:solid;
  border-width:1px;
- padding:0
+ padding:0;
 }
 .x-window-default-mc {
     background-color: #23272a;
